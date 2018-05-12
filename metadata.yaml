@@ -1,0 +1,26 @@
+_repo: A-Black-Adonis_26599
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26599-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Porter, Linn Boyd
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '32115'
+    url: http://www.gutenberg.org/2009/agents/32115
+description: ''
+gutenberg_issued: '2008-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+title: A Black Adonis
+url: http://www.gutenberg.org/ebooks/26599
